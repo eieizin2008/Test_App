@@ -10,6 +10,7 @@ namespace Test_App
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("This is first line");
         }
     }
 }
